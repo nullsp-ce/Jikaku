@@ -1,6 +1,10 @@
 # Jikaku
 
-Jikaku is a Japanese Anki deck designed to quickly build kanji reading proficiency. Each card introduces a new kanji or kanji reading. The intent is that learning all the words in this deck will make it much easier to learn other words through reading alone without having to mine them.
+Jikaku is a Japanese Anki deck designed to quickly build kanji reading proficiency. Each card introduces a new kanji or kanji reading. The intent is that learning all the words in this deck will make it much easier to learn other words through reading alone without having to mine them. Here is what the cards look like:
+
+![Image showing the front and back of a card](https://github.com/nullsp-ce/Jikaku/blob/main/JikakuCard.png?raw=true)
+
+The front has a word. The back has the word with the reading as furigana, and the meaning below.
 
 > [!IMPORTANT]
 > This deck assumes that you know everything in [Kaishi 1.5k](https://github.com/donkuri/Kaishi/tree/main). If you are a beginner, please complete Kaishi first.

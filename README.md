@@ -4,7 +4,7 @@ Jikaku is a Japanese Anki deck designed to quickly build kanji reading proficien
 
 ![Image showing the front and back of a card](https://github.com/nullsp-ce/Jikaku/blob/main/JikakuCard.png?raw=true)
 
-The front has a word. The back has the word with the reading as furigana, and the meaning below.
+The front has a word. The back has the word with the reading as furigana, and the pitch accent, audio and meaning below.
 
 > [!IMPORTANT]
 > This deck assumes that you know everything in [Kaishi 1.5k](https://github.com/donkuri/Kaishi/tree/main). If you are a beginner, please complete Kaishi first.
